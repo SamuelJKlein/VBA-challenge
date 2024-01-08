@@ -2,7 +2,8 @@
 
 VBA challenge submission
 
-Sub stockChallenge().vb is the script I wrote 
+Sub stockChallenge().vb is the script I wrote.
+
 Results.png is the screenshot of the results
 
 
