@@ -6,6 +6,8 @@ VBA_Script.rtf is the script I wrote
 Results.png is the screenshot of the results
 
 
+
+
 The code starts by creating some variables that are used later when we loop through the cells. We define them first so that they don’t need to be declared every time the code loops through a row. 
 
 Then we loop through all the items in the worksheets object. 
